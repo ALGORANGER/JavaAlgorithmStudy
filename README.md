@@ -1,4 +1,4 @@
-# <div align="center"> <img src="https://user-images.githubusercontent.com/38664481/150126183-2e6800d3-6cba-4a62-b050-64a38fa201d7.png" width="40px" height="auto"/> ALGORANGER</div>
+# <div align="center"> <img src="https://user-images.githubusercontent.com/38664481/150126183-2e6800d3-6cba-4a62-b050-64a38fa201d7.png" width="1000px" height="500px"/> <br>ALGORANGER</div>
 
 ### 🌏월, 수, 금: 지구방위훈련(모각코) 20시 ~ 22시
 ### 💥화요일 : 출동(심화문제)(공통 1 개인 1)
