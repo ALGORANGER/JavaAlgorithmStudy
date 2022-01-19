@@ -1,4 +1,4 @@
-# JavaAlgorithmStudy
+# ALGORANDER
 
 ### 월, 수, 금: 모각코 20시 ~ 22시
 ### 화요일 : 심화문제(공통 1 개인 1)
