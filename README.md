@@ -1,4 +1,4 @@
-# ALGORANGER
+# ![image](https://user-images.githubusercontent.com/38664481/150125596-9f1da9ac-af8c-452a-87f1-696d209adc77.png) ALGORANGER
 
 ### 월, 수, 금: 모각코 20시 ~ 22시
 ### 화요일 : 심화문제(공통 1 개인 1)
