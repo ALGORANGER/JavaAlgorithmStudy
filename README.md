@@ -1,8 +1,8 @@
-# <img src="https://user-images.githubusercontent.com/38664481/150126183-2e6800d3-6cba-4a62-b050-64a38fa201d7.png" width="40px" height="auto" /> ALGORANGER
+# <div align="center"> <img src="https://user-images.githubusercontent.com/38664481/150126183-2e6800d3-6cba-4a62-b050-64a38fa201d7.png" width="1000px" height="500px"/> <br>ALGORANGER</div>
 
-### 🌏월, 수, 금: 지구방위훈련(모각코) 20시 ~ 22시
+### 🌏월, 수, 금 : 지구방위훈련(모각코) 20시 ~ 22시
 ### 💥화요일 : 출동(심화문제)(공통 1 개인 1)
-### 👽목요일 : 악당 분석, 퇴치 계획 [발표 + 쉬운 문제(발표 표함 2시간 이내 분량) + 심화문제 채택]
+### 👽목요일 : 악당 분석, 퇴치 계획 [발표 + 쉬운 문제(2시간 이내) + 심화문제 채택]
 
 #### 📌 해치워야할 악당들(발표 주제)
 
