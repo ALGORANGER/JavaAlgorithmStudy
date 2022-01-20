@@ -30,7 +30,7 @@ public class _BOJ_Simul_B3_2445 {
 			for(int j = N; j > i; j--) {
 				System.out.print("*");
 			}
-			for(int j = i * 2; j > 0; j--) { // 4, 1
+			for(int j = i * 2; j > 0; j--) { 
 				System.out.print(" ");
 			}
 			for(int j = N; j > i; j--) {
