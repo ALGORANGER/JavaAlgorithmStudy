@@ -6,6 +6,7 @@ public class _BOJ_Simul_B3_2445 {
 		Scanner sc = new Scanner(System.in);
 		
 		int N = sc.nextInt();
+		sc.close();
 		
 		for(int i = 0; i < N; i++) {
 			for(int j = 0; j < i + 1; j++) {
