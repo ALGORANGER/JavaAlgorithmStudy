@@ -10,6 +10,7 @@ public class _BOJ_Simul_B3_2444 {
 		
 		Scanner sc = new Scanner(System.in);
 
+		
 		N = sc.nextInt();
 		for(int i = 0; i < N; i++) {
 			for(int j = N - 1; j > i; j--) {
