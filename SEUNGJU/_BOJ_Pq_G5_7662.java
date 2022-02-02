@@ -38,10 +38,8 @@ public class BOJ_pq_G5_7662 {
 						if (map.put(del, map.get(del) - 1) == 1) {
 							map.remove(del);
 						}
-
 					}
 				}
-
 			}
 			if (map.isEmpty()) {
 				bw.write("EMPTY\n");
