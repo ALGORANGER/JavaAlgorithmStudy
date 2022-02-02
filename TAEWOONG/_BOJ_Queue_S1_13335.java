@@ -37,14 +37,15 @@ public class _BOJ_Queue_S1_13335 {
 				} else if (q.size() == infoN[1]) {
 					limit -= q.poll();
 				} else {
-					if (limit + truck[i] > infoN[2]) { // 하중 여유없음 (꽉참)
-						q.offer(0); // 0을 넣어서 현재 트럭이 진행중임을 표시
-						timer++;
-					} else { // 두번째 트럭부터 + 하중 여유있음
+					if (limit + truck[i] <= infoN[2]) { // 두번째 트럭부터 + 하중 여유있음
 						q.offer(truck[i]);
 						limit += truck[i];
 						timer++;
 						break;
+					} else { // 하중 여유없음 (꽉참)
+						
+						q.offer(0); // 0을 넣어서 현재 트럭이 진행중임을 표시
+						timer++;
 					}
 				}
 
