@@ -3,6 +3,7 @@ package com.ssafy.algo.day0120;
 import java.util.Scanner;
 
 public class _BOJ_Queue_S5_1417 {	
+	
 	public static void main(String[] args) {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
