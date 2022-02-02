@@ -27,8 +27,13 @@ public class Main {
                 line.add(Integer.parseInt(s));
             }
 
+            // 시간
             int ans = 1;
+
+            // 트럭 번호
             int index = 0;
+
+            // 다리 위의 트럭 무게
             int weight = 0;
             Queue<Truck> queue = new LinkedList<>();
             
