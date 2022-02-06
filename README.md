@@ -26,3 +26,7 @@
 18. 세그먼트 트리, 펜윅 트리
 19. 트리의 지름 구하기
 20. 최대 유량을 구하는 두 가지 알고리즘 - Ford-Fulkerson / Edmond-Karp
+
+
+[![Solved.ac 
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x)](https://solved.ac/0at_x)
