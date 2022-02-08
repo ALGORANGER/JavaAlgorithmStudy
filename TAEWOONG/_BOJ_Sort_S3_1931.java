@@ -38,7 +38,7 @@ public class _BOJ_Sort_S3_1931 {
 			t[i]= new time(Integer.parseInt(str[0]), Integer.parseInt(str[1]));	
 		}
 		
-		Arrays.sort(t, new Comparator<time>() {
+		Arrays.sort(t, new Comparator<time>() {                      //정렬 조건 
 			
 			@Override
 			public int compare(time o1, time o2) {
