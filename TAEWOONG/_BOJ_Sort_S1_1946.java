@@ -55,7 +55,10 @@ public class _BOJ_Sort_S1_1946 {
 				}
 			});
 			
+			
+			
 			Person temp = new Person(p[0].A,p[0].B);
+			
 			for (int i=1;i<N;i++) {
 				if(temp.B>p[i].B) {
 					pass++;
