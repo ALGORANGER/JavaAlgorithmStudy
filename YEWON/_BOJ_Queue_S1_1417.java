@@ -28,17 +28,17 @@ public class _BOJ_Queue_S1_1417 {
 	            best--;                     // 최고 투표수에서 다솜이가 1 매수한다.          
 	            cnt++;                      // -> 매수 카운트 1 증가                       
 	            d++;                        // -> 다솜이 표 1 증가                          
-	            candidate.add(최고);        // 1감소한 최고 투표수를 다시 후보자 큐에 추가   
+	            candidate.add(best);        // 1감소한 최고 투표수를 다시 후보자 큐에 추가   
 	         }
 	         System.out.println(cnt);        // 최종 매수 수를 출력
 	      }else {                            // 후보자가 다솜이 혼자인 경우는 매수 0 출력
 	         System.out.println(0);
 	      }
-
+	      
 	   }
 
 	}
 
-	}
+}
 
 }

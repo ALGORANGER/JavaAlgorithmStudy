@@ -1,4 +1,4 @@
-# <div align="center"> <img src="https://user-images.githubusercontent.com/38664481/150126183-2e6800d3-6cba-4a62-b050-64a38fa201d7.png" width="1000px" height="500px"/> <br>ALGORANGER</div>
+# <div align="center"> <img src="https://user-images.githubusercontent.com/38664481/152691665-2a0e07ce-b9f7-46b0-975d-a68ac63b68d2.jpg" width="1000px" height="500px"/> <br>ALGORANGER</div>
 
 ### 🌏월, 수, 금 : 지구방위훈련(모각코) 20시 ~ 22시
 ### 💥화요일 : 출동(심화문제)(공통 1 개인 1)
@@ -8,10 +8,10 @@
 
 1. 스택, 큐, 힙(우선순위큐) - 승길
 2. 리스트, 링크드 리스트, 해시 - 윤하
-3. Tree, 정렬(java에서 STL 사용법만 간단히)
-4. 문자열
-5. 트리(이진트리, B트리,RB트리), 그래프(트리 순회)
-6. DFS,BFS
+3. Tree, 정렬(java에서 STL 사용법만 간단히) - 예원
+4. 문자열 - 태웅
+5. 트리(이진트리, B트리,RB트리), 그래프(트리 순회) - 동욱
+6. DFS,BFS - 승주
 7. 백트래킹
 8. 분할정복(이분탐색), 정렬
 9. 탐욕법(그리디)
@@ -26,3 +26,14 @@
 18. 세그먼트 트리, 펜윅 트리
 19. 트리의 지름 구하기
 20. 최대 유량을 구하는 두 가지 알고리즘 - Ford-Fulkerson / Edmond-Karp
+<br><br>
+<div align=center>
+<p><img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=chu1214"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yeeeh"/></p>
+</div>
+<div align=center>
+<p><img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kdw150821"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ksgg1"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=apxjvm"/></p>
+</div>
