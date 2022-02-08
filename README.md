@@ -35,5 +35,5 @@
 <div align=center>
 <p><img height="110em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kdw150821"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <img height="110em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ksgg1"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img height="110em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/></p>
+<img height="110em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=apxjvm"/></p>
 </div>
