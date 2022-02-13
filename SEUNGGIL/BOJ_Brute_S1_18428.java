@@ -121,20 +121,6 @@ public class BOJ_Brute_S1_18428 {
         }
 
         wr.write("NO");
-
-        // for (int i = 0; i < cases.size(); i++) {
-        //     for (Pos pos : cases.get(i)) {
-        //         wr.write(String.format("(%d,%d) ",pos.x, pos.y));
-        //     }wr.newLine();
-        // }
-
-        // for (int i = 0; i < n; i++) {
-        //     for (int j = 0; j < n; j++) {
-        //         wr.write(map[i][j] + '0');
-        //         wr.write(' ');
-        //     }
-        //     wr.newLine();
-        // }
         
         re.close();
         wr.close();
