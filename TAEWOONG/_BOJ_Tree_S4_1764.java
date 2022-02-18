@@ -25,9 +25,9 @@ public class _BOJ_Tree_S4_1764 {
 		int M = Integer.parseInt(st.nextToken());
 		int cnt=0;
 		
-		HashSet<String> ear = new HashSet<>();
-		HashSet<String> eye = new HashSet<>();
-		TreeSet<String> Job = new TreeSet<>();
+		HashSet<String> ear = new HashSet<>();         //듣
+		HashSet<String> eye = new HashSet<>();         //보
+		TreeSet<String> Job = new TreeSet<>();         //잡
 		
 		for(int i=0;i<N;i++) {
 			st = new StringTokenizer(br.readLine());
