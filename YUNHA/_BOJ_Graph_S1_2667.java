@@ -8,14 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/*
- * @author 0at_x
- * @since 2022. 03. 10.
- * @see https://www.acmicpc.net/problem/2667
- * @category #Graph
- */
-
-public class BOJ_Graph_S1_2667 {
+public class _BOJ_Graph_S1_2667 {
 
 	private static int N, cnt;
 	private static int[][] map;
