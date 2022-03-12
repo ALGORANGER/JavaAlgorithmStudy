@@ -8,14 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.List;
 
-/*
- * @author 0at_x
- * @since 2022. 03. 12.
- * @see https://www.acmicpc.net/problem/2529
- * @category #Graph
- */
-
-public class BOJ_Graph_S2_2529 {
+public class _BOJ_Graph_S2_2529 {
 
 	private static int K;
 	private static char[] signs;
