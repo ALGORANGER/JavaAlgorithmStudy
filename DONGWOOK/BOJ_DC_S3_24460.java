@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class BOJ_S3_DC_24460 {
+public class BOJ_DC_S3_24460 {
 	static int N;
 	static int[][] map;
 

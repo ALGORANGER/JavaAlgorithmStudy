@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.StringTokenizer;
 
-public class BOJ_S4_DC_10815 {
+public class BOJ_DC_S4_10815 {
 	static Set<Integer> set = new HashSet<>();
 	
 	public static void main(String[] args) throws Exception {
