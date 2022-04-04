@@ -30,10 +30,10 @@
 <div align=center>
 <p><img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=chu1214"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yeeeh"/></p>
+<img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=yeeeh"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
 </div>
 <div align=center>
 <p><img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=kdw150821"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ksgg1"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=apxjvm"/></p>
+<img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=apxjvm"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
 </div>
