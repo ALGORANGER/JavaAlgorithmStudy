@@ -13,6 +13,7 @@ public class BOJ_DC_S4_11582 {
 		
 		int N = Integer.parseInt(br.readLine());
 		int[] arr = new int[N];
+		
 		StringTokenizer st = new StringTokenizer(br.readLine());
 
 		for (int i = 0; i < N; i++) {
