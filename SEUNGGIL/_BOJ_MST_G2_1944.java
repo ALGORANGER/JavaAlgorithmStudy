@@ -44,8 +44,7 @@ public class _BOJ_MST_G2_1944{
                 }
             }
         }
-        
-        int[][] debugAnswer = new int[n][n];
+    
         
         int ans = 0;
         int len = 0;
@@ -64,7 +63,6 @@ public class _BOJ_MST_G2_1944{
                     if(visited[nextX][nextY])
                         continue;
                     if(map[nextX][nextY] == 'K'){
-                        debugAnswer[nextX][nextY] = len;
                         ans += len;
                         checkedPos.add(nextX*n + nextY);
                         len = 0;
