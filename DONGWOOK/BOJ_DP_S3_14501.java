@@ -48,5 +48,5 @@ public class BOJ_DP_S3_14501 {
 		
 		DFS(day + 1, sum);
 
-	}
+	} 
 }
