@@ -19,13 +19,11 @@
 11. 다익스트라, 벨만포드, 플로이드 워셜 - 승주 
 12. 동적계획법(DP) - 승길
 13. 트리 심화 : 가장 가까운 공통 조상(LCA) - 동욱
-14. 위상정렬
-15. 투포인터
-16. trie 알고리즘
-17. 유니온 파인드
-18. 세그먼트 트리, 펜윅 트리
-19. 트리의 지름 구하기
-20. 최대 유량을 구하는 두 가지 알고리즘 - Ford-Fulkerson / Edmond-Karp
+14. 위상정렬 - 승길
+15. 투포인터 - 윤하
+16. trie 알고리즘 - 승주
+17. 세그먼트 트리, 펜윅 트리 - 태웅
+18. 트리의 지름 구하기 - 동욱
 <br><br>
 <div align=center>
 <p><img height="120em" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=chu1214"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
